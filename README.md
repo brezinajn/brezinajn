@@ -1,4 +1,4 @@
-![brezinajn's GitHub stats](https://github-readme-stats.vercel.app/api?username=brezinajn&count_private=true&theme=dracula&show_icons=true)
+<!-- ![brezinajn's GitHub stats](https://github-readme-stats.vercel.app/api?username=brezinajn&count_private=true&theme=dracula&show_icons=true) -->
 
 <!-- ### Hi there 👋 -->
 
